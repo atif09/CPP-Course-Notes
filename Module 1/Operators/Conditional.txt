@@ -1,0 +1,9 @@
+Conditions return a boolean value depending on whether the expression is true or false
+
+Conditional operators: 
+
+==, != 
+
+Relational Operators: 
+
+<, >, <=, >=

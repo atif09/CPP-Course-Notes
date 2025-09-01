@@ -1,0 +1,9 @@
+Variables are containers that store specific types of data. They can be modified with the assignment operator '='
+
+Syntax: 
+
+datatype variable_name = value;
+
+Example: 
+
+a = 10;

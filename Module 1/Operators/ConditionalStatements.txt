@@ -1,0 +1,14 @@
+/*Conditional statements execute a different block
+of code depending on the boolean value of a condiition*/
+#include <iostream>
+using namespace std;
+
+int main() {
+  if (condition) {
+    //something
+} else if (condition2) {
+    //something else
+} else {
+    //something
+}
+}

@@ -1,0 +1,13 @@
+Operators that only need one value/operand are called unary Operators
+
++
+-
+
+++
+a++ a = 5 -> 6 (use a, then increment)
+
+++a a = 5 (increment a, then use it) 
+
+--
+a-- a = 5 -> 4
+

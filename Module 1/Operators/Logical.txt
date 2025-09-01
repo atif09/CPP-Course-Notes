@@ -1,0 +1,8 @@
+Logical operators perform operations on boolean valuesor expressions that result in boolean values
+
+  '(expr1) && (expr2)' checks whether BOTH are true
+  '(expr1) || (expr2)' checks whether EITHER one is true
+  ' !(expr) ' returns the OPPOSITE of the result of 'expr'
+
+
+The operators are called AND, OR, NOT respectively

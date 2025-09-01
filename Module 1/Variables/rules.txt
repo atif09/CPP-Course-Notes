@@ -1,0 +1,8 @@
+Variable names cannot: 
+
+Have spaces (use underscore instead)
+Start with a digit
+Be reserved by the compilor (Keywords are not allowed)
+Already taken by another variable (in the same scope)
+
+NOTE: Variables are CASE SENSITIVE
