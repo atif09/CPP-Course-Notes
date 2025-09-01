@@ -1,0 +1,5 @@
+There are three types of loops in C++
+
+for loop (entry controlled)
+while loop (entry controlled)
+do-while loop (exit controlled)

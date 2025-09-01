@@ -1,0 +1,12 @@
+An array is a collection of multiple items of the SAME datatype
+
+Arrays are ordered, meaning they are contiguous in memory
+
+The size of an array cannot be changed once declared
+
+Syntax:
+
+datatype name[size]
+
+int a[5];
+

@@ -1,0 +1,12 @@
+To input an array in C++ we need to: 
+
+Declare the array with a specified size
+Use a loop to take input for each element, using cin 
+
+Syntax: 
+
+int a[5];
+
+for (int i=0; i<=5; i++) {
+  cin >> a[i];
+}

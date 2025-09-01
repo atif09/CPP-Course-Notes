@@ -1,0 +1,10 @@
+Execute the block of code first
+
+Then check if the condition is true
+Repeat the process aas long as the condition remains true
+
+Syntax
+
+do {
+  //Code here
+} while (condition);

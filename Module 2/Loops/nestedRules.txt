@@ -1,0 +1,3 @@
+Ensure the termination conditions for both loops are well-defined to avoid infinite loops
+
+Try to minimize the depth of the nested loops when possible for better performance and readability 

@@ -1,0 +1,6 @@
+Nested loops are loops placed inside another loop
+
+The inner loop executes completely for EACH ITERATION OF THE OUTER Loop
+
+They are commonly used for tasks involving multi-dimensional data, such as matrices or grids 
+

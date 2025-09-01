@@ -1,0 +1,19 @@
+Check if the condition is true and then execute the block of code
+
+Repeat till condition becomes false and exit
+
+Syntax: 
+
+(S1)
+
+while ( condition (s2) ) {
+
+  (s3)
+
+  //Code here
+
+}
+
+NOTE:
+
+Use while over for - dynamic power over the control flow logic 

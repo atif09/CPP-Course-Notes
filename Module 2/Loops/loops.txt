@@ -1,0 +1,8 @@
+Loops are used to repeat a block of code until one condition is satisfied
+
+
+An iteration in loop is defined as one time the loop gets executed. For example, 3rd iteration is the 3rd time the loop is run
+
+'break' statement exits the current/innermost loop when executed.
+
+'continue' statement skips to the next iteration of the current/innermost loop when executed.

@@ -1,0 +1,19 @@
+A scope is a region of the program
+
+Every pair of curly braces creates a new scope
+
+The variables inside the scope cannot be used outside the scope, 
+
+But the variables outside the scope can be used inside
+
+void outerFunction() { //Outer Scope
+  int outerVar = 10;  // Variable in outer scope
+
+  { // New inner scope created by curly braces
+    int innerVar = 20; //Variable in inner scope
+    cout << 'Outer variable inside inner scope: ' << outerVar << endl;
+    cout << 'Inner variable inside inner scope: ' << innerVar << endl;
+
+  } 
+  //cout << innerVar, will result in a Compilation Error
+}

@@ -1,0 +1,14 @@
+To output an array in C++, you need to: 
+
+Use a loop to traverse through the elements
+
+Print each element using cout 
+
+Syntax: 
+
+int a[5] = {1,2,3,4,5};
+
+for(int i = 1; i<=5; i++) {
+  cout << a[i] << ' ';
+}
+cout << endl;
