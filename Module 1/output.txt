@@ -1,0 +1,10 @@
+To output a value, we use the cout operator as follows: 
+
+  cout << value;
+
+
+To output multiple values in the same line;
+
+  cout << value1 << value2 << value3;
+
+NOTE; To start printing in a new line: endl; or '\n'

@@ -6,3 +6,25 @@ long long int can store integers from -9e18 to 9e18
 Using long long int doesn't hurt, but using int might give you wrong answer if values are too big
 
 You can also use long long instead of long long int
+
+For example if we have to write 
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int a = 10000.....18 times
+  cout << a << endl;
+  return 0;
+}
+
+Instead, we can format this as
+
+#include <iostream>
+using namespace std;
+
+int main() {
+  int a = 1e18;
+  cout << a << endl;
+  return 0; 
+}

@@ -1,0 +1,9 @@
+to input a value, we use the cin operator as follows: 
+
+  cin >> value;
+
+to input multiple values in the same line: 
+
+  cin >> value1 >> value2 >> value3;
+
+NOTE: Each Input value must be separated by a space or a new line 
