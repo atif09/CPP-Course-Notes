@@ -1,0 +1,7 @@
+Integer constants: 6,42..
+
+Decimal constants: 3.14, 12.0
+
+Character constants: 'f', '5', '~', '\n'
+
+String literal: 'Hello :D'

@@ -1,0 +1,8 @@
+int can store integers from  -2e9 to 2e9
+
+long long int can store integers from -9e18 to 9e18
+
+
+Using long long int doesn't hurt, but using int might give you wrong answer if values are too big
+
+You can also use long long instead of long long int
